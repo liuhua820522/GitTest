@@ -15,7 +15,6 @@
 		E723F8E81C75B1B8005BF218 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E723F8E61C75B1B8005BF218 /* LaunchScreen.storyboard */; };
 		E723F8F31C75B1B8005BF218 /* GitTestProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E723F8F21C75B1B8005BF218 /* GitTestProjectTests.m */; };
 		E723F8FE1C75B1B8005BF218 /* GitTestProjectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E723F8FD1C75B1B8005BF218 /* GitTestProjectUITests.m */; };
-		E7A7EF501C76EB560041C8C4 /* GitTestFile.m in Sources */ = {isa = PBXBuildFile; fileRef = E7A7EF4F1C76EB560041C8C4 /* GitTestFile.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,8 +51,6 @@
 		E723F8F91C75B1B8005BF218 /* GitTestProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTestProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E723F8FD1C75B1B8005BF218 /* GitTestProjectUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitTestProjectUITests.m; sourceTree = "<group>"; };
 		E723F8FF1C75B1B8005BF218 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E7A7EF4E1C76EB560041C8C4 /* GitTestFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GitTestFile.h; sourceTree = "<group>"; };
-		E7A7EF4F1C76EB560041C8C4 /* GitTestFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GitTestFile.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,8 +101,6 @@
 		E723F8D71C75B1B8005BF218 /* GitTestProject */ = {
 			isa = PBXGroup;
 			children = (
-				E7A7EF4E1C76EB560041C8C4 /* GitTestFile.h */,
-				E7A7EF4F1C76EB560041C8C4 /* GitTestFile.m */,
 				E723F8DB1C75B1B8005BF218 /* AppDelegate.h */,
 				E723F8DC1C75B1B8005BF218 /* AppDelegate.m */,
 				E723F8DE1C75B1B8005BF218 /* ViewController.h */,
@@ -274,7 +269,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E7A7EF501C76EB560041C8C4 /* GitTestFile.m in Sources */,
 				E723F8E01C75B1B8005BF218 /* ViewController.m in Sources */,
 				E723F8DD1C75B1B8005BF218 /* AppDelegate.m in Sources */,
 				E723F8DA1C75B1B8005BF218 /* main.m in Sources */,
