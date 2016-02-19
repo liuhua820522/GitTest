@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E71189311C76FB56003C805E /* GitTest2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E71189301C76FB56003C805E /* GitTest2ViewController.m */; settings = {ASSET_TAGS = (); }; };
 		E723F8DA1C75B1B8005BF218 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E723F8D91C75B1B8005BF218 /* main.m */; };
 		E723F8DD1C75B1B8005BF218 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E723F8DC1C75B1B8005BF218 /* AppDelegate.m */; };
 		E723F8E01C75B1B8005BF218 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E723F8DF1C75B1B8005BF218 /* ViewController.m */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E711892F1C76FB56003C805E /* GitTest2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GitTest2ViewController.h; sourceTree = "<group>"; };
+		E71189301C76FB56003C805E /* GitTest2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GitTest2ViewController.m; sourceTree = "<group>"; };
 		E723F8D51C75B1B8005BF218 /* GitTestProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTestProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E723F8D91C75B1B8005BF218 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E723F8DB1C75B1B8005BF218 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -101,6 +104,8 @@
 		E723F8D71C75B1B8005BF218 /* GitTestProject */ = {
 			isa = PBXGroup;
 			children = (
+				E711892F1C76FB56003C805E /* GitTest2ViewController.h */,
+				E71189301C76FB56003C805E /* GitTest2ViewController.m */,
 				E723F8DB1C75B1B8005BF218 /* AppDelegate.h */,
 				E723F8DC1C75B1B8005BF218 /* AppDelegate.m */,
 				E723F8DE1C75B1B8005BF218 /* ViewController.h */,
@@ -269,6 +274,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E71189311C76FB56003C805E /* GitTest2ViewController.m in Sources */,
 				E723F8E01C75B1B8005BF218 /* ViewController.m in Sources */,
 				E723F8DD1C75B1B8005BF218 /* AppDelegate.m in Sources */,
 				E723F8DA1C75B1B8005BF218 /* main.m in Sources */,
