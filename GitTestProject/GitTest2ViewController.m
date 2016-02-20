@@ -1,13 +1,13 @@
 //
-//  GitTestViewController.m
+//  GitTest2ViewController.m
 //  GitTestProject
 //
 //  Created by lisa liu on 2/19/16.
 //
 //
 
-#import "GitTestViewController.h"
+#import "GitTest2ViewController.h"
 
-@implementation GitTestViewController
+@implementation GitTest2ViewController
 
 @end
