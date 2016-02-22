@@ -10,4 +10,7 @@
 
 @implementation GitTest2ViewController
 
+- (void)viewDidLoad {
+    [super viewDidLoad];
+}
 @end
